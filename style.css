@@ -1,0 +1,47 @@
+p {
+    font-size: 24px;
+}
+
+.info {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px;
+}
+
+article {
+    background-color: white;
+    padding: 15px;
+    width: 400px;
+    margin: 10px;
+}
+
+.article-but {
+    text-decoration: none;
+    background-color: grey;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+}
+
+footer {
+    background-color: white;
+    padding: 30;
+}
+
+footer a {
+    margin-right: 25 ;
+}
+
+footer p {
+    font-size: 24px;
+}
+
+header,nav,info,footer {
+    display: flex;
+}
+
+h1 {
+    text-align: center;
+}
